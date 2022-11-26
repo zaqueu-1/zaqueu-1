@@ -1,6 +1,6 @@
 ### Hi there! I'm Eduardo, but you can call me Zaq 🤘
 <font size="1">27y nutritionist from RJ, Brazil</font>
-Check out my [social media](https://tree-zaqueu.vercel.app/)!
+Check out my [new personal page](https://tree-zaqueu.vercel.app/)!
 
 --------
 ### ✨Social Media
