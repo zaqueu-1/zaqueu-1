@@ -1,6 +1,6 @@
 ### Hi there! I'm Eduardo, but you can call me Zaq 🤘
 <font size="1">27y dev from RJ, Brazil</font><br/>
-Check out my [personal page](https://tree-zaqueu.vercel.app/)!
+Check out my [personal page](https://tree-zaqueu.vercel.app/)!<br/>
 <sub>I also work as a nutritionist at [#TEAMZED](https://teamzed-zaqueu-1.vercel.app/)!</sub>
 
 --------
