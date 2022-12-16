@@ -1,5 +1,4 @@
-### Hi there! I'm Eduardo Zaqueu 🤘<sub> (but you can call me Zaq)</sub>
-<font size="1">27y dev from RJ, Brazil</font><br/>
+![whoami](https://github.com/zaqueu-1/zaqueu-1/blob/main/Eduardo%20Zaqueu.png)
 [My portfolio](https://zaqueu.tech/)<br/>
 <sub>I also work as a coach at [TEAMZED](https://teamzed.com.br)!</sub>
 
