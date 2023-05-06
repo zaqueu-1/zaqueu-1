@@ -7,7 +7,7 @@ Tech savvy, self-learner and passionate about sharing knowledge. I've host sever
 At the moment, I'm a Front-end Developer and I dedicate a part of my spare time to the study of Back-end technologies too.<br/>
 
 --------
-### ✨ Social Media
+### ✨ Wanna know more?
 ### [Here](https://zaqueu.tech/) you can check my portfolio.<br/>
 ### <sub>I also work as a bodybuilding coach at [TEAMZED](https://teamzed.com.br)!</sub><br/>
 
