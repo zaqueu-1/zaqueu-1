@@ -8,9 +8,8 @@ At the moment, I'm a Front-end Developer and I dedicate a part of my spare time 
 
 --------
 ### ✨ Social Media
-### [Here](https://tree-zaqueu.vercel.app/) you can check out my personal links page.<br/>
-### [And here](https://zaqueu.tech/) you can check my portfolio.<br/>
-### <sub>I also work as a coach at [TEAMZED](https://teamzed.com.br)!</sub><br/>
+### [Here](https://zaqueu.tech/) you can check my portfolio.<br/>
+### <sub>I also work as a bodybuilding coach at [TEAMZED](https://teamzed.com.br)!</sub><br/>
 
 ---------
 ### 💻 Favorite Techs
