@@ -1,4 +1,4 @@
-![whoami](https://github.com/zaqueu-1/zaqueu-1/blob/main/Eduardo%20Zaqueu.png)
+
 <br/>
 --------
 ### 🤘🏻 Profile
