@@ -1,6 +1,4 @@
 
-<br/>
---------
 ### 🤘🏻 Profile
 Tech savvy, self-learner and passionate about sharing knowledge. I've host several workshops about technology, also acting as a teacher at computer maintenance and computing courses.<br/>
 
