@@ -1,8 +1,10 @@
 
 ### 🤘🏻 Profile
-Tech savvy, self-learner and passionate about sharing knowledge. I've host several workshops about technology, also acting as a teacher at computer maintenance and computing courses.<br/>
+Tech savvy, self-learner and passionate about sharing insightful moments and experiences!<br/>
 
-At the moment, I work as a Front-end Software Engineer at Speedio, using technologies such as Vue.js, Quasar, Node.js and Rails.<br/>
+For nearly ten years, I've worked as a Web Designer at UERJ/FFP, delivering visual excellence and agility. At Microlins, I was a teacher for over two years, preparing hundreds of professionals for the job market. During my time at Speedio, I was responsible for enhancing the Atlas platform, developing new features, and ensuring the quality, clarity, and integration of the interface with the backend.<br/>
+
+Currently, I work at Berrytech using tools such as React, TypeScript, shadcn/ui, Legend State, GraphQL and Tailwind. I also develop applications, APIs and am experienced in using other technologies such as Vue.js, Node.js and Ruby on Rails.<br/>
 
 --------
 ### ✨ Wanna know more?
