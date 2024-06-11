@@ -1,10 +1,14 @@
 
 ### 🤘🏻 Profile
-Tech savvy, self-learner and passionate about sharing insightful moments and experiences!<br/>
+A developer who believes in the power of communication and soft skills. <br/>
 
-For nearly ten years, I've worked as a Web Designer at UERJ/FFP, delivering visual excellence and agility. At Microlins, I was a teacher for over two years, preparing hundreds of professionals for the job market. During my time at Speedio, I was responsible for enhancing the Atlas platform, developing new features, and ensuring the quality, clarity, and integration of the interface with the backend.<br/>
+I am currently part of the development team at Hurb. Fascinated by learning and sharing what I know, I feel comfortable being around professionals who seek growth. Communication and curiosity are my keywords.
 
-Currently, I work at Berrytech using tools such as React, TypeScript, shadcn/ui, Legend State, GraphQL and Tailwind. I also develop applications, APIs and am experienced in using other technologies such as Vue.js, Node.js and Ruby on Rails.<br/>
+At Berrytech, I contributed to the release of Maia platform and was able to further enhance my skills and toolbox with TypeScript, GraphQL, Tailwind, Legend State, shadcn/ui and AI integrations.
+
+At Speedio, I was responsible for improving the Atlas platform, developing features, fixing bugs, and ensuring the quality, clarity, and integration of the interface with the backend. I used Vue.js with Quasar, Overmind, and MongoDB. It was also where I had my first contact with RabbitMQ, Elastic Search and CRM integrations.
+
+I started my dev journey as a freelancer at an agency called SM Creative Marketing, where I developed projects for small and medium-sized businesses using the MERN stack. Before that, I worked as a teacher at Microlins and, for years, provided services as a Web Designer at UERJ/FFP.
 
 --------
 ### ✨ Wanna know more?
