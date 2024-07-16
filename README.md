@@ -1,8 +1,8 @@
-
+ 
 ### 🤘🏻 Profile
 A developer who believes in the power of communication and soft skills. <br/>
 
-I am currently part of the development team at Hurb. Fascinated by learning and sharing what I know, I feel comfortable being around professionals who seek growth. Communication and curiosity are my keywords.
+I am currently part of the engineering team at Hurb. Fascinated by learning and sharing what I know, I feel comfortable being around professionals who seek growth. Communication and curiosity are my keywords.
 
 At Berrytech, I contributed to the release of Maia platform and was able to further enhance my skills and toolbox with TypeScript, GraphQL, Tailwind, Legend State, shadcn/ui and AI integrations.
 
