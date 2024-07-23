@@ -12,7 +12,7 @@ I started my dev journey as a freelancer at an agency called SM Creative Marketi
 
 --------
 ### ✨ Wanna know more?
-### [Here](https://zaqueu.tech/) you can check my portfolio.<br/>
+### Check out my website [here](https://zaqueu.tech/).<br/>
 
 ---------
 ### 💻 Favorite Techs
