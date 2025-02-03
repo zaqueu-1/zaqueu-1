@@ -1,14 +1,13 @@
  
 ### 🤘🏻 Profile
-A developer who believes in the power of communication and soft skills. <br/>
+Passionate about learning, sharing knowledge, and being around professionals who strive for growth. Communication and curiosity are my key attributes.
 
-I am currently part of the engineering team at Hurb. Fascinated by learning and sharing what I know, I feel comfortable being around professionals who seek growth. Communication and curiosity are my keywords.
+I am currently part of the engineering team at Hurb, where I worked on the Packages team and currently contribute to the Interfaces team in a React.js/Next.js + Tailwind, GraphQL, and SQL environment.
+Before that, I worked on restructuring a business management platform at a startup, where I was able to enhance my skills and tools with TypeScript, GraphQL, Legend State, shadcn/ui, and AI integrations.
 
-At Berrytech, I contributed to the release of Maia platform and was able to further enhance my skills and toolbox with TypeScript, GraphQL, Tailwind, Legend State, shadcn/ui and AI integrations.
+I was also responsible for improving a B2B and B2C lead sales platform integrated with multiple CRMs, developing features and fixing bugs. The stack included Vue.js + Quasar, Overmind, and MongoDB. This role also gave me my first exposure to RabbitMQ, Elastic Search and Docker.
 
-At Speedio, I was responsible for improving the Atlas platform, developing features, fixing bugs, and ensuring the quality, clarity, and integration of the interface with the backend. I used Vue.js with Quasar, Overmind, and MongoDB. It was also where I had my first contact with RabbitMQ, Elastic Search and CRM integrations.
-
-I started my dev journey as a freelancer at an agency called SM Creative Marketing, where I developed projects for small and medium-sized businesses using the MERN stack. Before that, I worked as a teacher at Microlins and, for years, provided services as a Web Designer at UERJ/FFP.
+I began my journey as a freelancer at an agency where I developed projects for small and medium-sized businesses using the MERN stack. Before that, I worked as an informatics teacher and, for years, provided services as a web designer and freelancer.
 
 --------
 ### ✨ Wanna know more?
