@@ -1,18 +1,21 @@
  
 ### Who am I
-Passionate about learning and sharing knowledge, that's me. 
+I’m a developer with extensive experience in building dashboards, e-commerce platforms, custom applications, and AI-powered solutions — always aligning technology with real business needs.
 
-I am part of the engineering team on two companies: PropHub and CurlingAI. As someone specializing in JavaScript, I currently work mostly with Nuxt.js (Vue) and Next.js (React), alongside with a wide range of technologies such as Directus CMS, Tailwind, n8n, LangChain, Zustand... The list goes on. At PropHub, I develop dashboards and platforms, aiming on the prop trading industry and delivering customized apps for traders. At CurlingAI, I build AI powered apps for all kinds of clients, automating their processes and giving them custom-built tools that align with their business needs. 
+Currently, I focus on creating solutions for the financial market, developing highly customized platforms for traders with real-time data visualization and performance. I work with technologies like Nuxt.js and Vue, Directus CMS, and Tailwind, always aiming for usability and code quality.
 
-Previously, at Hurb, I've worked on the interfaces team developing new features for it's e-commerce while maintaining code quality and ensuring that performance was always as high as possible in a Next.js, Tailwind, GraphQL and SQL environment. Before that, I worked on restructuring a business management platform at BerryTech, where I was able to enhance my skills and tools with TypeScript, GraphQL, Legend State, shadcn/ui and AI integrations.
+I also build AI-driven tools and tailored solutions for a wide range of clients. I develop applications that automate processes and integrate workflows using tools like n8n, LangChain, Zustand, and stacks based on Next.js and React.
 
-I was also responsible for improving a B2B and B2C lead sales platform integrated with multiple CRMs at Speedio, developing new pages, products, components and fixing bugs. The stack included Vue.js, Quasar, Overmind and MongoDB.
+My key skills include:
+- Strong proficiency in JavaScript, with a focus on modern frameworks (Next.js and Nuxt.js)
+- Experience with headless CMS, process automation, design systems, SQL and NoSQL
+- A commitment to code quality, team collaboration, and continuous improvement
+- Ability to adapt technologies to different business contexts, always prioritizing performance, maintainability, and user experience
 
-I consider myself an easygoing individual. I like to spend most of my free time with my fiancee and friends, basically playing Magic the Gathering, board games, watching horror movies and animes or just hanging around. 
+I’m passionate about learning and sharing knowledge. In my free time, I enjoy spending time with my fiancée and friends — playing Magic: The Gathering, board games, watching horror movies and anime, or simply hanging out and having great conversations.
 
---------
-### ✨ Wanna know more?
-### Check out my website [here](https://zaqueu.tech/).<br/>
+🌐 Website: https://zaqueu.tech
+📧 oliveira.eduardo08@gmail.com
 
 ---------
 ### 💻 Favorite Techs
