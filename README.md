@@ -1,13 +1,14 @@
  
-### 🤘🏻 Profile
-Passionate about learning, sharing knowledge, and being around professionals who strive for growth. Communication and curiosity are my key attributes.
+### Who am I
+Passionate about learning and sharing knowledge, that's me. 
 
-I am currently part of the engineering team at Hurb, where I worked on the Packages team and currently contribute to the Interfaces team in a React.js/Next.js + Tailwind, GraphQL, and SQL environment.
-Before that, I worked on restructuring a business management platform at a startup, where I was able to enhance my skills and tools with TypeScript, GraphQL, Legend State, shadcn/ui, and AI integrations.
+I am part of the engineering team on two companies: PropHub and CurlingAI. As someone specializing in JavaScript, I currently work mostly with Nuxt.js (Vue) and Next.js (React), alongside with a wide range of technologies such as Directus CMS, Tailwind, n8n, LangChain, Zustand... The list goes on. At PropHub, I develop dashboards and platforms, aiming on the prop trading industry and delivering customized apps for traders. At CurlingAI, I build AI powered apps for all kinds of clients, automating their processes and giving them custom-built tools that align with their business needs. 
 
-I was also responsible for improving a B2B and B2C lead sales platform integrated with multiple CRMs, developing features and fixing bugs. The stack included Vue.js + Quasar, Overmind, and MongoDB. This role also gave me my first exposure to RabbitMQ, Elastic Search and Docker.
+Previously, at Hurb, I've worked on the interfaces team developing new features for it's e-commerce while maintaining code quality and ensuring that performance was always as high as possible in a Next.js, Tailwind, GraphQL and SQL environment. Before that, I worked on restructuring a business management platform at BerryTech, where I was able to enhance my skills and tools with TypeScript, GraphQL, Legend State, shadcn/ui and AI integrations.
 
-I began my journey as a freelancer at an agency where I developed projects for small and medium-sized businesses using the MERN stack. Before that, I worked as an informatics teacher and, for years, provided services as a web designer and freelancer.
+I was also responsible for improving a B2B and B2C lead sales platform integrated with multiple CRMs at Speedio, developing new pages, products, components and fixing bugs. The stack included Vue.js, Quasar, Overmind and MongoDB.
+
+I consider myself an easygoing individual. I like to spend most of my free time with my fiancee and friends, basically playing Magic the Gathering, board games, watching horror movies and animes or just hanging around. 
 
 --------
 ### ✨ Wanna know more?
