@@ -1,6 +1,8 @@
  
-### Who am I
-I’m a developer with extensive experience in building dashboards, e-commerce platforms, custom applications, and AI-powered solutions — always aligning technology with real business needs.
+### About Me
+I enjoy building digital products that are useful and easy to use. Throughout my career, I’ve worked on projects across different industries, always focused on delivering great experiences, collaborating with the team, and continuously improving. I enjoy friendly environments, people who are open to exchanging ideas, and challenges that help me grow as a person.
+
+I’m a developer with extensive experience in building dashboards, e-commerce platforms, custom applications, and AI-powered solutions, always aligning technology with real business needs.
 
 Currently, I focus on creating solutions for the financial market, developing highly customized platforms for traders with real-time data visualization and performance. I work with technologies like Nuxt.js and Vue, Directus CMS, and Tailwind, always aiming for usability and code quality.
 
@@ -12,7 +14,7 @@ My key skills include:
 - A commitment to code quality, team collaboration, and continuous improvement
 - Ability to adapt technologies to different business contexts, always prioritizing performance, maintainability, and user experience
 
-I’m passionate about learning and sharing knowledge. In my free time, I enjoy spending time with my fiancée and friends — playing Magic: The Gathering, board games, watching horror movies and anime, or simply hanging out and having great conversations.
+I’m passionate about learning and sharing knowledge. In my free time, I enjoy spending time with my girlfriend and friends — playing Magic: The Gathering, board games, watching horror movies and anime, or simply hanging out and having great conversations.
 
 🌐 Website: https://zaqueu.tech
 📧 oliveira.eduardo08@gmail.com
