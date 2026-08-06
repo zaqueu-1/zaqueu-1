@@ -23,3 +23,12 @@ I’m passionate about learning and sharing knowledge. In my free time, I enjoy 
 ### 💻 Favorite Techs
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ----
+
+
+<a href="https://git-ascii.vercel.app">
+  <img
+    src="https://git-ascii.vercel.app/api/zaqueu-1?v=1786052722223"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
