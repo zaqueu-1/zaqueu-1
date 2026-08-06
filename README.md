@@ -1,6 +1,6 @@
 <a href="https://git-ascii.vercel.app">
   <img
-    src="https://git-ascii.vercel.app/api/zaqueu-1?v=1786052722223"
+    src="https://git-ascii.vercel.app/api/zaqueu-1?v=1786052984309"
     alt="GitAscii Widget"
     width="100%"
   />
