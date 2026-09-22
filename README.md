@@ -1,11 +1,3 @@
-<a href="https://git-ascii.vercel.app">
-  <img
-    src="https://git-ascii.vercel.app/api/zaqueu-1?v=1786052984309"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a> 
-
 ### About Me
 I enjoy building digital products that are useful and easy to use. Throughout my career, I’ve worked on projects across different industries, always focused on delivering great experiences, collaborating with the team, and continuously improving. I enjoy friendly environments, people who are open to exchanging ideas, and challenges that help me grow as a person.
 
