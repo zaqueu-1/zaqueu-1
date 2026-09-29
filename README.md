@@ -1,22 +1,24 @@
 ### About Me
-I enjoy building digital products that are useful and easy to use. Throughout my career, I’ve worked on projects across different industries, always focused on delivering great experiences, collaborating with the team, and continuously improving. I enjoy friendly environments, people who are open to exchanging ideas, and challenges that help me grow as a person.
+I build products where performance and trust aren't optional. They're the product.
 
-I’m a developer with extensive experience in building dashboards, e-commerce platforms, custom applications, and AI-powered solutions, always aligning technology with real business needs.
+For the past two years I've led frontend engineering for trading and fintech platforms, turning complex financial data into interfaces traders rely on under pressure and helping secure a $400K investment along the way.
 
-Currently, I focus on creating solutions for the financial market, developing highly customized platforms for traders with real-time data visualization and performance. I work with technologies like Nuxt.js and Vue, Directus CMS, and Tailwind, always aiming for usability and code quality.
+- Architected and shipped a dual-shell white-label trading terminal (Vue 3 + TypeScript, Vite): two parallel UI shells switched via feature flags with per-tenant design-token theming serving dozens of tenants off one codebase.
 
-I also build AI-driven tools and tailored solutions for a wide range of clients. I develop applications that automate processes and integrate workflows using tools like n8n, LangChain, Zustand, and stacks based on Next.js and React.
+- Built a real-time execution layer on top of a WebSocket risk engine (order state, live quotes, market depth), including client-side order-lifecycle handling (GTD expiry, bracket coercion) alongside a backend-authoritative OMS across paper and live (wallet-signed, Hyperliquid) accounts.
 
-My key skills include:
-- Strong proficiency in JavaScript, with a focus on modern frameworks (Next.js and Nuxt.js)
-- Experience with headless CMS, process automation, design systems, SQL and NoSQL
-- A commitment to code quality, team collaboration, and continuous improvement
-- Ability to adapt technologies to different business contexts, always prioritizing performance, maintainability, and user experience
+- Shipped the frontend surface for the platform's prop-trading risk system: KYC gating, drawdown/daily-loss breach enforcement (trailing/EOD/static modes) and account-suspension UX, closing the gap between "the risk desk blocked an account" and the trader actually seeing why in time to act.
 
-I’m passionate about learning and sharing knowledge. In my free time, I enjoy spending time with my girlfriend and friends — playing Magic: The Gathering, board games, watching horror movies and anime, or simply hanging out and having great conversations.
+- Own and maintain i18n across 7 locales kept in lockstep with zero drift as the product shipped new surfaces daily.
+
+Stack: Nuxt.js, React.js, Next.js, Vue.js, TypeScript, Pinia, Vite, Tailwind CSS, Vitest, WebSockets and so on.
+
+I've built these always with the same focus: ship fast, ship correct and never sacrifice one for the other. Outside of code you will see me playing Magic the Gathering with my girlfriend and friends and probably a horror movie queued up.
+
+💬 Open to new opportunities and interesting problems, reach out.
 
 🌐 Website: https://zaqueu.tech
 📧 oliveira.eduardo08@gmail.com
 
 ### 💻 Favorite Techs
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
