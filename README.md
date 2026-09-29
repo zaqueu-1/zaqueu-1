@@ -17,8 +17,7 @@ I've built these always with the same focus: ship fast, ship correct and never s
 
 💬 Open to new opportunities and interesting problems, reach out.
 
-🌐 Website: https://zaqueu.tech
-📧 oliveira.eduardo08@gmail.com
+🌐 [Website](https://zaqueu.tech)
 
 ### 💻 Favorite Techs
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
